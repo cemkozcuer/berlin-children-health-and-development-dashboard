@@ -1,0 +1,661 @@
+Prognoseraum,Bezeichnung,Anteil,year
+0101,Zentrum,22.9,2017
+0102,Moabit,37.9,2017
+0103,Gesundbrunnen,43.4,2017
+0104,Wedding,45.7,2017
+0201,Kreuzberg Nord,58.3,2017
+0202,Kreuzberg Süd,22.9,2017
+0203,Kreuzberg Ost,32.2,2017
+0204,Friedrichshain West,24.7,2017
+0205,Friedrichshain Ost,8.7,2017
+0301,Buch,19.5,2017
+0302,Nördliches Pankow,12.5,2017
+0303,Nördliches Weißensee,13.7,2017
+0304,Südliches Pankow,11.3,2017
+0305,Südliches Weißensee,17.6,2017
+0306,Nördl. Prenzl. Berg,11.8,2017
+0307,Südl. Prenzl. Berg,12.8,2017
+0401,Charlottenburg-Nord,35.3,2017
+0402,Westend,21,2017
+0403,Charlottenburg,29.6,2017
+0404,Schmargendorf,23,2017
+0405,Wilmersdorf,35.3,2017
+0406,Forst Grunewald,0,2017
+0501,SPA 1,38.5,2017
+0502,SPA 2,38.7,2017
+0503,SPA 3,36.5,2017
+0504,SPA 4,21.1,2017
+0601,Region A,18.6,2017
+0602,Region B,23.4,2017
+0603,Region C,17.9,2017
+0604,Region D,12.7,2017
+0701,Schöneberg-Nord,44.9,2017
+0702,Schöneberg-Süd,21.9,2017
+0703,Friedenau,12.4,2017
+0704,Tempelhof,27.3,2017
+0705,Mariendorf,27.6,2017
+0706,Marienfelde,32.8,2017
+0707,Lichtenrade,19.7,2017
+0801,Neukölln,51.4,2017
+0802,Britz-Buckow,34.3,2017
+0803,Gropiusstadt,46.3,2017
+0804,Buckow Nord / Rudow,15.8,2017
+0901,Treptow-Köpenick 1,8,2017
+0902,Treptow-Köpenick 2,23.4,2017
+0903,Treptow-Köpenick 3,13.7,2017
+0904,Treptow-Köpenick 4,13.5,2017
+0905,Treptow-Köpenick 5,11.6,2017
+1001,Marzahn,32.5,2017
+1002,Hellersdorf,42.2,2017
+1003,Biesdorf,12.9,2017
+1004,Kaulsdorf / Mahlsdorf,18.1,2017
+1101,Hohenschönhausen Nord,34.1,2017
+1102,Hohenschönhausen Süd,31.8,2017
+1103,Lichtenberg Nord,32.5,2017
+1104,Lichtenberg Mitte,23.8,2017
+1105,Lichtenberg Süd,7.9,2017
+1210,Reinickendorf-Ost,47,2017
+1221,Tegel,40.6,2017
+1222,Heiligensee-Konradshöhe,13.8,2017
+1223,Frohnau-Hermsdorf,7.7,2017
+1230,Waidmannslust,46,2017
+0101,Zentrum,16.6,2013
+0102,Moabit,32.5,2013
+0103,Gesundbrunnen,60.6,2013
+0104,Wedding,55.6,2013
+0201,Kreuzberg Nord,51.7,2013
+0202,Kreuzberg Süd,17.6,2013
+0203,Kreuzberg Ost,30.5,2013
+0204,Friedrichshain West,14.8,2013
+0205,Friedrichshain Ost,8.9,2013
+0301,Buch,22.9,2013
+0302,Nördliches Pankow,13.8,2013
+0303,Nördliches Weißensee,12.8,2013
+0304,Südliches Pankow,9.4,2013
+0305,Südliches Weißensee,9.5,2013
+0306,Nördlicher Prenzl. Berg,9.3,2013
+0307,Südlicher Prenzl. Berg,7.9,2013
+0401,Charlottenburg-Nord,24.5,2013
+0402,Westend,18.9,2013
+0403,Charlottenburg,21.3,2013
+0404,Schmargendorf,22.2,2013
+0405,Wilmersdorf,27.2,2013
+0406,Forst Grunewald,0,2013
+0501,SPA 1,33.8,2013
+0502,SPA 2,27.7,2013
+0503,SPA 3,31.1,2013
+0504,SPA 4,11,2013
+0601,Region A,16.2,2013
+0602,Region B,15.2,2013
+0603,Region C,10.7,2013
+0604,Region D,6.2,2013
+0701,Schöneberg-Nord,29.6,2013
+0702,Schöneberg-Süd,20.5,2013
+0703,Friedenau,14,2013
+0704,Tempelhof,26,2013
+0705,Mariendorf,25.4,2013
+0706,Marienfelde,33.1,2013
+0707,Lichtenrade,23.7,2013
+0801,Neukölln,55.6,2013
+0802,Britz-Buckow,35,2013
+0803,Gropiusstadt,48.7,2013
+0804,Buckow Nord / Rudow,30.5,2013
+0901,Treptow-Köpenick 1,5.1,2013
+0902,Treptow-Köpenick 2,12.8,2013
+0903,Treptow-Köpenick 3,13.1,2013
+0904,Treptow-Köpenick 4,6.1,2013
+0905,Treptow-Köpenick 5,4.6,2013
+1001,Marzahn,29,2013
+1002,Hellersdorf,39.3,2013
+1003,Biesdorf,12.4,2013
+1004,Kaulsdorf / Mahlsdorf,18.5,2013
+1101,Hohenschönhausen Nord,28.9,2013
+1102,Hohenschönhausen Süd,23.9,2013
+1103,Lichtenberg Nord,29.1,2013
+1104,Lichtenberg Mitte,23.9,2013
+1105,Lichtenberg Süd,9.8,2013
+1210,Reinickendorf-Ost,49.1,2013
+1221,Tegel,28.5,2013
+1222,Heiligensee-Konradshöhe,9.8,2013
+1223,Frohnau-Hermsdorf,7.8,2013
+1230,Waidmannslust,40.4,2013
+0101,Zentrum,22.4,2018
+0102,Moabit,30.1,2018
+0103,Gesundbrunnen,55.6,2018
+0104,Wedding,45,2018
+0201,Kreuzberg Nord,65.9,2018
+0202,Kreuzberg Süd,19.9,2018
+0203,Kreuzberg Ost,37,2018
+0204,Friedrichshain West,26.7,2018
+0205,Friedrichshain Ost,12.1,2018
+0301,Buch,27.5,2018
+0302,Nördliches Pankow,13,2018
+0303,Nördliches Weißensee,16.9,2018
+0304,Südliches Pankow,10.1,2018
+0305,Südliches Weißensee,18.9,2018
+0306,Nördl. Prenzl. Berg,12.9,2018
+0307,Südl. Prenzl. Berg,12.4,2018
+0401,Charlottenburg-Nord,34.2,2018
+0402,Westend,24,2018
+0403,Charlottenburg,27,2018
+0404,Schmargendorf,19.3,2018
+0405,Wilmersdorf,29.7,2018
+0406,Forst Grunewald,0,2018
+0501,SPA 1,42.6,2018
+0502,SPA 2,39.9,2018
+0503,SPA 3,37.4,2018
+0504,SPA 4,17.7,2018
+0601,Region A,19.3,2018
+0602,Region B,25.9,2018
+0603,Region C,19.1,2018
+0604,Region D,17,2018
+0701,Schöneberg-Nord,37.5,2018
+0702,Schöneberg-Süd,22.6,2018
+0703,Friedenau,15.8,2018
+0704,Tempelhof,29,2018
+0705,Mariendorf,26.4,2018
+0706,Marienfelde,32.7,2018
+0707,Lichtenrade,24.3,2018
+0801,Neukölln,41.6,2018
+0802,Britz-Buckow,32.5,2018
+0803,Gropiusstadt,42.9,2018
+0804,Buckow Nord / Rudow,22.6,2018
+0901,Treptow-Köpenick 1,9.8,2018
+0902,Treptow-Köpenick 2,25.1,2018
+0903,Treptow-Köpenick 3,14.5,2018
+0904,Treptow-Köpenick 4,19.2,2018
+0905,Treptow-Köpenick 5,11.5,2018
+1001,Marzahn,40,2018
+1002,Hellersdorf,42.2,2018
+1003,Biesdorf,16.3,2018
+1004,Kaulsdorf / Mahlsdorf,13,2018
+1101,Hohenschönhausen Nord,38.9,2018
+1102,Hohenschönhausen Süd,29.9,2018
+1103,Lichtenberg Nord,33.4,2018
+1104,Lichtenberg Mitte,29.7,2018
+1105,Lichtenberg Süd,5.8,2018
+1210,Reinickendorf-Ost,48.7,2018
+1221,Tegel,41.5,2018
+1222,Heiligensee-Konradshöhe,6.9,2018
+1223,Frohnau-Hermsdorf,11.1,2018
+1230,Waidmannslust,50.5,2018
+0101,Zentrum,20.7,2012
+0102,Moabit,37.6,2012
+0103,Gesundbrunnen,59.4,2012
+0104,Wedding,53.6,2012
+0201,Kreuzberg Nord,38.3,2012
+0202,Kreuzberg Süd,15.9,2012
+0203,Kreuzberg Ost,28.5,2012
+0204,Friedrichshain West,11.6,2012
+0205,Friedrichshain Ost,10.7,2012
+0301,Buch,24.5,2012
+0302,Nördliches Pankow,11.4,2012
+0303,Nördliches Weißensee,12.5,2012
+0304,Südliches Pankow,9.6,2012
+0305,Südliches Weißensee,13.3,2012
+0306,Nördlicher Prenzl. Berg,7.2,2012
+0307,Südlicher Prenzl. Berg,7.1,2012
+0401,Charlottenburg-Nord,22.9,2012
+0402,Westend,8.7,2012
+0403,Charlottenburg,18.9,2012
+0404,Schmargendorf,16,2012
+0405,Wilmersdorf,22.9,2012
+0406,Forst Grunewald,0,2012
+0501,SPA 1,32.3,2012
+0502,SPA 2,25.1,2012
+0503,SPA 3,27.1,2012
+0504,SPA 4,11.1,2012
+0601,Region A,13.6,2012
+0602,Region B,13.5,2012
+0603,Region C,8.9,2012
+0604,Region D,4.1,2012
+0701,Schöneberg-Nord,30.8,2012
+0702,Schöneberg-Süd,21.3,2012
+0703,Friedenau,9.7,2012
+0704,Tempelhof,21,2012
+0705,Mariendorf,22,2012
+0706,Marienfelde,26.4,2012
+0707,Lichtenrade,21.5,2012
+0801,Neukölln,49.5,2012
+0802,Britz-Buckow,26.5,2012
+0803,Gropiusstadt,49.4,2012
+0804,Buckow Nord / Rudow,22.5,2012
+0901,Treptow-Köpenick 1,5.1,2012
+0902,Treptow-Köpenick 2,9.7,2012
+0903,Treptow-Köpenick 3,11.3,2012
+0904,Treptow-Köpenick 4,5,2012
+0905,Treptow-Köpenick 5,5.8,2012
+1001,Marzahn,30.3,2012
+1002,Hellersdorf,31.2,2012
+1003,Biesdorf,6.2,2012
+1004,Kaulsdorf / Mahlsdorf,12.5,2012
+1101,Hohenschönhausen Nord,26,2012
+1102,Hohenschönhausen Süd,19.3,2012
+1103,Lichtenberg Nord,23.9,2012
+1104,Lichtenberg Mitte,24.8,2012
+1105,Lichtenberg Süd,5.9,2012
+1210,Reinickendorf-Ost,45.1,2012
+1221,Tegel,27.9,2012
+1222,Heiligensee-Konradshöhe,7.3,2012
+1223,Frohnau-Hermsdorf,6.6,2012
+1230,Waidmannslust,35.8,2012
+0101,Zentrum,18.1,2010
+0102,Moabit,38.4,2010
+0103,Gesundbrunnen,53.7,2010
+0104,Wedding,59.5,2010
+0201,Kreuzberg Nord,52,2010
+0202,Kreuzberg Süd,22.3,2010
+0203,Kreuzberg Ost,36.8,2010
+0204,Friedrichshain West,6.1,2010
+0205,Friedrichshain Ost,12.8,2010
+0301,Buch,29.1,2010
+0302,Nördliches Pankow,9.1,2010
+0303,Nördliches Weißensee,14.1,2010
+0304,Südliches Pankow,10.2,2010
+0305,Südliches Weißensee,15.7,2010
+0306,Nördlicher Prenzl. Berg,9.7,2010
+0307,Südlicher Prenzl. Berg,9.6,2010
+0401,Charlottenburg-Nord,17.9,2010
+0402,Westend,8.5,2010
+0403,Charlottenburg,17.7,2010
+0404,Schmargendorf,13,2010
+0405,Wilmersdorf,22.4,2010
+0406,Forst Grunewald,0,2010
+0501,SPA 1,25.2,2010
+0502,SPA 2,23.1,2010
+0503,SPA 3,24.2,2010
+0504,SPA 4,9.7,2010
+0601,Region A,10.5,2010
+0602,Region B,7.6,2010
+0603,Region C,8.3,2010
+0604,Region D,7.5,2010
+0701,Schöneberg-Nord,28.4,2010
+0702,Schöneberg-Süd,20.6,2010
+0703,Friedenau,12.7,2010
+0704,Tempelhof,18.5,2010
+0705,Mariendorf,21.9,2010
+0706,Marienfelde,18.7,2010
+0707,Lichtenrade,10.4,2010
+0801,Neukölln,44.8,2010
+0802,Britz-Buckow,25.3,2010
+0803,Gropiusstadt,41,2010
+0804,Buckow Nord / Rudow,20.4,2010
+0901,Treptow-Köpenick 1,3.6,2010
+0902,Treptow-Köpenick 2,9.5,2010
+0903,Treptow-Köpenick 3,5.5,2010
+0904,Treptow-Köpenick 4,4.3,2010
+0905,Treptow-Köpenick 5,1.8,2010
+1001,Marzahn,17.2,2010
+1002,Hellersdorf,17.7,2010
+1003,Biesdorf,3.8,2010
+1004,Kaulsdorf / Mahlsdorf,4,2010
+1101,Hohenschönhausen Nord,22.3,2010
+1102,Hohenschönhausen Süd,17.2,2010
+1103,Lichtenberg Nord,14.8,2010
+1104,Lichtenberg Mitte,20,2010
+1105,Lichtenberg Süd,3.8,2010
+1210,Reinickendorf-Ost,35.6,2010
+1221,Tegel,27.8,2010
+1222,Heiligensee-Konradshöhe,5.4,2010
+1223,Frohnau-Hermsdorf,7.5,2010
+1230,Waidmannslust,34.5,2010
+0101,Zentrum,20.7,2016
+0102,Moabit,35.7,2016
+0103,Gesundbrunnen,54,2016
+0104,Wedding,43.7,2016
+0201,Kreuzberg Nord,55,2016
+0202,Kreuzberg Süd,17.8,2016
+0203,Kreuzberg Ost,33.9,2016
+0204,Friedrichshain West,22.1,2016
+0205,Friedrichshain Ost,12.3,2016
+0301,Buch,17.2,2016
+0302,Nördliches Pankow,8.7,2016
+0303,Nördliches Weißensee,9.8,2016
+0304,Südliches Pankow,9.6,2016
+0305,Südliches Weißensee,12.2,2016
+0306,Nördl. Prenzl. Berg,9.5,2016
+0307,Südl. Prenzl. Berg,9.9,2016
+0401,Charlottenburg-Nord,44.6,2016
+0402,Westend,20.9,2016
+0403,Charlottenburg,27.6,2016
+0404,Schmargendorf,20.4,2016
+0405,Wilmersdorf,31.2,2016
+0406,Forst Grunewald,0,2016
+0501,SPA 1,40.3,2016
+0502,SPA 2,34.7,2016
+0503,SPA 3,26.2,2016
+0504,SPA 4,13.5,2016
+0601,Region A,19.6,2016
+0602,Region B,27.4,2016
+0603,Region C,16,2016
+0604,Region D,13.6,2016
+0701,Schöneberg-Nord,41,2016
+0702,Schöneberg-Süd,17.9,2016
+0703,Friedenau,18.6,2016
+0704,Tempelhof,34.9,2016
+0705,Mariendorf,25.8,2016
+0706,Marienfelde,35,2016
+0707,Lichtenrade,21.5,2016
+0801,Neukölln,48.6,2016
+0802,Britz-Buckow,35,2016
+0803,Gropiusstadt,45.1,2016
+0804,Buckow Nord / Rudow,23.5,2016
+0901,Treptow-Köpenick 1,8.8,2016
+0902,Treptow-Köpenick 2,25.4,2016
+0903,Treptow-Köpenick 3,13.1,2016
+0904,Treptow-Köpenick 4,19.3,2016
+0905,Treptow-Köpenick 5,7.7,2016
+1001,Marzahn,36.3,2016
+1002,Hellersdorf,33.4,2016
+1003,Biesdorf,10.5,2016
+1004,Kaulsdorf / Mahlsdorf,11.6,2016
+1101,Hohenschönhausen Nord,35,2016
+1102,Hohenschönhausen Süd,31.5,2016
+1103,Lichtenberg Nord,35.3,2016
+1104,Lichtenberg Mitte,26.9,2016
+1105,Lichtenberg Süd,11.9,2016
+1210,Reinickendorf-Ost,43.1,2016
+1221,Tegel,38.5,2016
+1222,Heiligensee-Konradshöhe,17.2,2016
+1223,Frohnau-Hermsdorf,6.5,2016
+1230,Waidmannslust,47.3,2016
+0101,Zentrum,25.4,2015
+0102,Moabit,42.6,2015
+0103,Gesundbrunnen,60.7,2015
+0104,Wedding,47.3,2015
+0201,Kreuzberg Nord,47.7,2015
+0202,Kreuzberg Süd,17,2015
+0203,Kreuzberg Ost,30.4,2015
+0204,Friedrichshain West,17.1,2015
+0205,Friedrichshain Ost,7.1,2015
+0301,Buch,17.5,2015
+0302,Nördliches Pankow,8.1,2015
+0303,Nördliches Weißensee,9.2,2015
+0304,Südliches Pankow,8.2,2015
+0305,Südliches Weißensee,11.1,2015
+0306,Nördl. Prenzl. Berg,8.9,2015
+0307,Südl. Prenzl. Berg,5.4,2015
+0401,Charlottenburg-Nord,33.3,2015
+0402,Westend,17.6,2015
+0403,Charlottenburg,23.7,2015
+0404,Schmargendorf,21,2015
+0405,Wilmersdorf,27.8,2015
+0406,Forst Grunewald,0,2015
+0501,SPA 1,36.9,2015
+0502,SPA 2,30.4,2015
+0503,SPA 3,43.3,2015
+0504,SPA 4,19.3,2015
+0601,Region A,20.7,2015
+0602,Region B,22.5,2015
+0603,Region C,14.1,2015
+0604,Region D,7.4,2015
+0701,Schöneberg-Nord,41.3,2015
+0702,Schöneberg-Süd,18,2015
+0703,Friedenau,14.4,2015
+0704,Tempelhof,34.2,2015
+0705,Mariendorf,31.7,2015
+0706,Marienfelde,32.2,2015
+0707,Lichtenrade,24.1,2015
+0801,Neukölln,48.4,2015
+0802,Britz-Buckow,37,2015
+0803,Gropiusstadt,50.7,2015
+0804,Buckow Nord / Rudow,29.5,2015
+0901,Treptow-Köpenick 1,4.3,2015
+0902,Treptow-Köpenick 2,14.4,2015
+0903,Treptow-Köpenick 3,12.7,2015
+0904,Treptow-Köpenick 4,14.5,2015
+0905,Treptow-Köpenick 5,6.9,2015
+1001,Marzahn,34,2015
+1002,Hellersdorf,41,2015
+1003,Biesdorf,11.8,2015
+1004,Kaulsdorf / Mahlsdorf,14.3,2015
+1101,Hohenschönhausen Nord,33.7,2015
+1102,Hohenschönhausen Süd,29.7,2015
+1103,Lichtenberg Nord,30.6,2015
+1104,Lichtenberg Mitte,23.1,2015
+1105,Lichtenberg Süd,3.8,2015
+1210,Reinickendorf-Ost,44.8,2015
+1221,Tegel,40.5,2015
+1222,Heiligensee-Konradshöhe,7.8,2015
+1223,Frohnau-Hermsdorf,12.2,2015
+1230,Waidmannslust,48.5,2015
+0101,Zentrum,16.7,2008
+0102,Moabit,38.5,2008
+0103,Gesundbrunnen,57.5,2008
+0104,Wedding,48.8,2008
+0201,Kreuzberg Nord,42.1,2008
+0202,Kreuzberg Süd,22.2,2008
+0203,Kreuzberg Ost,39.9,2008
+0204,Friedrichshain West,25.2,2008
+0205,Friedrichshain Ost,14.7,2008
+0301,Buch,18.4,2008
+0302,Nördliches Pankow,11.4,2008
+0303,Nördliches Weißensee,10.5,2008
+0304,Südliches Pankow,9.1,2008
+0305,Südliches Weißensee,14.3,2008
+0306,Nördlicher Prenzl. Berg,10.2,2008
+0307,Südlicher Prenzl. Berg,6,2008
+0401,Charlottenburg-Nord,17.8,2008
+0402,Westend,8.7,2008
+0403,Charlottenburg,17.5,2008
+0404,Schmargendorf,10.8,2008
+0405,Wilmersdorf,21.4,2008
+0406,Forst Grunewald,0,2008
+0501,SPA 1,23.2,2008
+0502,SPA 2,22.6,2008
+0503,SPA 3,34.2,2008
+0504,SPA 4,11.4,2008
+0601,Region A,14.5,2008
+0602,Region B,17.7,2008
+0603,Region C,9.8,2008
+0604,Region D,6.2,2008
+0701,Schöneberg-Nord,27.3,2008
+0702,Schöneberg-Süd,21.8,2008
+0703,Friedenau,12.5,2008
+0704,Tempelhof,19.1,2008
+0705,Mariendorf,12.9,2008
+0706,Marienfelde,20.3,2008
+0707,Lichtenrade,8.7,2008
+0801,Neukölln,48.2,2008
+0802,Britz-Buckow,26.3,2008
+0803,Gropiusstadt,38,2008
+0804,Buckow Nord / Rudow,16.4,2008
+0901,Treptow-Köpenick 1,7.6,2008
+0902,Treptow-Köpenick 2,7.8,2008
+0903,Treptow-Köpenick 3,7.1,2008
+0904,Treptow-Köpenick 4,5.5,2008
+0905,Treptow-Köpenick 5,2.6,2008
+1001,Marzahn,23.8,2008
+1002,Hellersdorf,12.7,2008
+1003,Biesdorf,4.4,2008
+1004,Kaulsdorf / Mahlsdorf,4.3,2008
+1101,Hohenschönhausen Nord,31,2008
+1102,Hohenschönhausen Süd,16,2008
+1103,Lichtenberg Nord,16.6,2008
+1104,Lichtenberg Mitte,23.3,2008
+1105,Lichtenberg Süd,2.9,2008
+1210,Reinickendorf-Ost,52,2008
+1221,Tegel,30.9,2008
+1222,Heiligensee-Konradshöhe,9.3,2008
+1223,Frohnau-Hermsdorf,11.3,2008
+1230,Waidmannslust,28.6,2008
+0101,Zentrum,17.6,2009
+0102,Moabit,42.6,2009
+0103,Gesundbrunnen,53.5,2009
+0104,Wedding,50.6,2009
+0201,Kreuzberg Nord,50.3,2009
+0202,Kreuzberg Süd,26.6,2009
+0203,Kreuzberg Ost,43.6,2009
+0204,Friedrichshain West,5.9,2009
+0205,Friedrichshain Ost,10.2,2009
+0301,Buch,29.9,2009
+0302,Nördliches Pankow,13.5,2009
+0303,Nördliches Weißensee,15.1,2009
+0304,Südliches Pankow,12.2,2009
+0305,Südliches Weißensee,14.4,2009
+0306,Nördlicher Prenzl. Berg,14.2,2009
+0307,Südlicher Prenzl. Berg,9.5,2009
+0401,Charlottenburg-Nord,17.5,2009
+0402,Westend,8.1,2009
+0403,Charlottenburg,17.9,2009
+0404,Schmargendorf,14.1,2009
+0405,Wilmersdorf,20.8,2009
+0406,Forst Grunewald,0,2009
+0501,SPA 1,24,2009
+0502,SPA 2,25.9,2009
+0503,SPA 3,26.8,2009
+0504,SPA 4,7.3,2009
+0601,Region A,13.5,2009
+0602,Region B,14.1,2009
+0603,Region C,8.6,2009
+0604,Region D,5,2009
+0701,Schöneberg-Nord,24.8,2009
+0702,Schöneberg-Süd,26.2,2009
+0703,Friedenau,16.3,2009
+0704,Tempelhof,20,2009
+0705,Mariendorf,23.6,2009
+0706,Marienfelde,12.1,2009
+0707,Lichtenrade,7.8,2009
+0801,Neukölln,43.3,2009
+0802,Britz-Buckow,24.6,2009
+0803,Gropiusstadt,42.2,2009
+0804,Buckow Nord / Rudow,19,2009
+0901,Treptow-Köpenick 1,7.5,2009
+0902,Treptow-Köpenick 2,7.8,2009
+0903,Treptow-Köpenick 3,6.4,2009
+0904,Treptow-Köpenick 4,10.4,2009
+0905,Treptow-Köpenick 5,2.3,2009
+1001,Marzahn,14.3,2009
+1002,Hellersdorf,12.2,2009
+1003,Biesdorf,3.2,2009
+1004,Kaulsdorf / Mahlsdorf,4.1,2009
+1101,Hohenschönhausen Nord,35.3,2009
+1102,Hohenschönhausen Süd,18.8,2009
+1103,Lichtenberg Nord,20.6,2009
+1104,Lichtenberg Mitte,24,2009
+1105,Lichtenberg Süd,5.4,2009
+1210,Reinickendorf-Ost,37.9,2009
+1221,Tegel,37.7,2009
+1222,Heiligensee-Konradshöhe,11.6,2009
+1223,Frohnau-Hermsdorf,7.2,2009
+1230,Waidmannslust,31.3,2009
+0101,Zentrum,17.8,2014
+0102,Moabit,34.5,2014
+0103,Gesundbrunnen,59.6,2014
+0104,Wedding,43.1,2014
+0201,Kreuzberg Nord,48.2,2014
+0202,Kreuzberg Süd,18.1,2014
+0203,Kreuzberg Ost,31.9,2014
+0204,Friedrichshain West,11.7,2014
+0205,Friedrichshain Ost,6.7,2014
+0301,Buch,24.6,2014
+0302,Nördliches Pankow,12.4,2014
+0303,Nördliches Weißensee,12.1,2014
+0304,Südliches Pankow,10.7,2014
+0305,Südliches Weißensee,12.4,2014
+0306,Nördlicher Prenzl. Berg,11.2,2014
+0307,Südlicher Prenzl. Berg,10.4,2014
+0401,Charlottenburg-Nord,28.8,2014
+0402,Westend,10.6,2014
+0403,Charlottenburg,24.7,2014
+0404,Schmargendorf,19,2014
+0405,Wilmersdorf,29,2014
+0406,Forst Grunewald,0,2014
+0501,SPA 1,30.9,2014
+0502,SPA 2,28.4,2014
+0503,SPA 3,27.1,2014
+0504,SPA 4,12.6,2014
+0601,Region A,17.5,2014
+0602,Region B,17.3,2014
+0603,Region C,10.1,2014
+0604,Region D,5.7,2014
+0701,Schöneberg-Nord,41.2,2014
+0702,Schöneberg-Süd,24.6,2014
+0703,Friedenau,13,2014
+0704,Tempelhof,30.8,2014
+0705,Mariendorf,27.2,2014
+0706,Marienfelde,22,2014
+0707,Lichtenrade,21.7,2014
+0801,Neukölln,51.5,2014
+0802,Britz-Buckow,30.9,2014
+0803,Gropiusstadt,51.1,2014
+0804,Buckow Nord / Rudow,24.8,2014
+0901,Treptow-Köpenick 1,5.6,2014
+0902,Treptow-Köpenick 2,9.7,2014
+0903,Treptow-Köpenick 3,9.4,2014
+0904,Treptow-Köpenick 4,7.7,2014
+0905,Treptow-Köpenick 5,5.4,2014
+1001,Marzahn,30.2,2014
+1002,Hellersdorf,37,2014
+1003,Biesdorf,2.9,2014
+1004,Kaulsdorf / Mahlsdorf,16.6,2014
+1101,Hohenschönhausen Nord,29.4,2014
+1102,Hohenschönhausen Süd,30.1,2014
+1103,Lichtenberg Nord,29.1,2014
+1104,Lichtenberg Mitte,24.5,2014
+1105,Lichtenberg Süd,6.7,2014
+1210,Reinickendorf-Ost,47.9,2014
+1221,Tegel,37.9,2014
+1222,Heiligensee-Konradshöhe,7.9,2014
+1223,Frohnau-Hermsdorf,6.8,2014
+1230,Waidmannslust,45.5,2014
+0101,Zentrum,16.6,2011
+0102,Moabit,38.3,2011
+0103,Gesundbrunnen,59.7,2011
+0104,Wedding,56.2,2011
+0201,Kreuzberg Nord,33.5,2011
+0202,Kreuzberg Süd,16.2,2011
+0203,Kreuzberg Ost,32.5,2011
+0204,Friedrichshain West,8.1,2011
+0205,Friedrichshain Ost,10.9,2011
+0301,Buch,12.4,2011
+0302,Nördliches Pankow,8.5,2011
+0303,Nördliches Weißensee,7.1,2011
+0304,Südliches Pankow,6.7,2011
+0305,Südliches Weißensee,11.9,2011
+0306,Nördlicher Prenzl. Berg,6.1,2011
+0307,Südlicher Prenzl. Berg,6.3,2011
+0401,Charlottenburg-Nord,11.9,2011
+0402,Westend,15.3,2011
+0403,Charlottenburg,12.8,2011
+0404,Schmargendorf,11.6,2011
+0405,Wilmersdorf,20.7,2011
+0406,Forst Grunewald,0,2011
+0501,SPA 1,27.4,2011
+0502,SPA 2,23.8,2011
+0503,SPA 3,24.4,2011
+0504,SPA 4,15.2,2011
+0601,Region A,15.6,2011
+0602,Region B,10.7,2011
+0603,Region C,9.2,2011
+0604,Region D,5.4,2011
+0701,Schöneberg-Nord,24.5,2011
+0702,Schöneberg-Süd,16.9,2011
+0703,Friedenau,15.2,2011
+0704,Tempelhof,21.7,2011
+0705,Mariendorf,22.8,2011
+0706,Marienfelde,18.1,2011
+0707,Lichtenrade,16.3,2011
+0801,Neukölln,35.3,2011
+0802,Britz-Buckow,28.1,2011
+0803,Gropiusstadt,44.9,2011
+0804,Buckow Nord / Rudow,18.6,2011
+0901,Treptow-Köpenick 1,4.2,2011
+0902,Treptow-Köpenick 2,6.3,2011
+0903,Treptow-Köpenick 3,7.9,2011
+0904,Treptow-Köpenick 4,6.8,2011
+0905,Treptow-Köpenick 5,5.1,2011
+1001,Marzahn,27.9,2011
+1002,Hellersdorf,31.7,2011
+1003,Biesdorf,6.2,2011
+1004,Kaulsdorf / Mahlsdorf,10.9,2011
+1101,Hohenschönhausen Nord,22.2,2011
+1102,Hohenschönhausen Süd,19.3,2011
+1103,Lichtenberg Nord,21.4,2011
+1104,Lichtenberg Mitte,22,2011
+1105,Lichtenberg Süd,3.2,2011
+1210,Reinickendorf-Ost,39.9,2011
+1221,Tegel,31.3,2011
+1222,Heiligensee-Konradshöhe,8,2011
+1223,Frohnau-Hermsdorf,6.6,2011
+1230,Waidmannslust,32.8,2011

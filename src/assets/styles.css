@@ -1,0 +1,134 @@
+body {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Optima;
+    color: #00428c;
+}
+
+h1 {
+    font-size: 3.5em;
+    margin: 40px 20px 40px 20px;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin: 30px 20px 100px 20px;
+}
+
+.plot-title {
+    font-size: 1.5em;
+    margin: 0 0 15px;
+}
+
+.text-block {
+    margin: 30px 0 0 0;
+    columns: 2;
+    font-size: 1.7em;
+    line-height: 1.6;
+}
+
+div {
+    font-family: Verdana;
+    color: #2a3f5f;
+}
+
+.map-container {
+    margin: 30px 0 0 0;
+}
+
+.barplot-block {
+    flex: 1 100%;
+    margin: 0 20px 0 20px
+}
+
+.lineplot-block {
+    flex: 1 100%;
+    margin: 0 20px 0 20px
+}
+
+.correlation-plot-block {
+    flex: 1 100%;
+    margin: 0 20px 0 20px
+}
+
+.scatter-matrix-block{
+    flex: 1 100%;
+    margin: 0 20px 0 20px
+}
+
+.tsne-plot-block{
+    flex: 1 100%;
+    margin: 0 20px 0 20px
+}
+
+.map-block {
+    flex: 1 100%;
+    margin: 0 20px 0 20px
+}
+
+.map-large {
+    height: 600px;
+    width: 1100px;
+}
+
+.map {
+    height: 450px;
+}
+
+.barplot {
+    height: 800px;
+}
+
+.lineplot {
+    height: 800px;
+}
+
+.correlation-plot {
+    height: 800px;
+    /*margin: 40px auto;*/
+}
+
+.scatter-matrix {
+    height: 800px;
+}
+
+.tsne-plot {
+    height: 800px;
+}
+
+#app-body {
+    /*padding: 0 20px 0 20px;*/
+    /*max-width: 1200px;*/
+    margin: 0 auto 0 auto;
+}
+
+#maps-flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.map-module {
+    display: flex;
+}
+
+.slider-element {
+    height: auto;
+}
+
+.drop-down {
+    margin-bottom: 15px;
+}
+
+label {
+    margin: 0 4px;
+}
