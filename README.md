@@ -2,6 +2,8 @@
 
 An interactive dashboard for exploring children health and development in Berlin with communal open-data and geodata using choropleth maps, barplots, correlation maps, dimensionality reduction (t-SNE), made with plotly/Dash.
 
+[Documentation/slides of the project can be found here.](https://github.com/cemkozcuer/berlin-children-health-and-development-dashboard/blob/main/Cem_Kozcuer_Slides-Berlin-Children-Health-and-Development-Dashboard.pdf)
+
 The project was supervised in the course _Urban Technologies_ ([Prof. Dr. Felix Bießmann](https://www.digital-future.berlin/en/about-us/professors/prof-dr-felix-biessmann/)) during [Data Science Master´s studies at Berliner Hochschule für Technik](https://projekt.bht-berlin.de/data-science/).
 
 ## Running the dashboard
